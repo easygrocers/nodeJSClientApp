@@ -1,0 +1,16 @@
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\socketio04.exe.config
+D:\Projects\NodeJS Chat\Client\socketio04\obj\Debug\socketio04.csprojResolveAssemblyReference.cache
+D:\Projects\NodeJS Chat\Client\socketio04\obj\Debug\socketio04.Form1.resources
+D:\Projects\NodeJS Chat\Client\socketio04\obj\Debug\socketio04.csproj.GenerateResource.Cache
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\socketio04.exe
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\socketio04.pdb
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\SocketIOClient.dll
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\WebSocket4Net.dll
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\Newtonsoft.Json.pdb
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\SocketIOClient.pdb
+D:\Projects\NodeJS Chat\Client\socketio04\bin\Debug\SocketIOClient.xml
+D:\Projects\NodeJS Chat\Client\socketio04\obj\Debug\socketio04.Properties.Resources.resources
+D:\Projects\NodeJS Chat\Client\socketio04\obj\Debug\socketio04.exe
+D:\Projects\NodeJS Chat\Client\socketio04\obj\Debug\socketio04.pdb

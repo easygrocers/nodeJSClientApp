@@ -1,0 +1,25 @@
+body {
+
+}
+
+#wrapper {
+  margin : 0 auto;
+  padding : 20px;
+  width : 600px;
+}
+
+h1 {
+}
+
+#messages {
+  overflow : auto;
+  height : 300px;
+}
+
+.msg {
+  padding : 4px 0;
+}
+
+.msg {
+  font-size : 14px;
+}
